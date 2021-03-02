@@ -3,9 +3,12 @@ a web app that says whether or not I'm at my desk
 
 ## Ingredients
 
-### 1x ESP-32 (say) running Micropython
-### 1x HC-SR04 ultrasonic rangefinder
-### The Internet
+### 1x ESP-32 running Micropython 
+![ESP-32](./images/esp32.jpeg)
+### 1x HC-SR04 ultrasonic rangefinder 
+![HC-SR04](./images/hcsr04.jpeg)
+### 1x Internet 
+![The Internet](./images/internet.jpeg)
 
 ## Step One: Find Range
 
